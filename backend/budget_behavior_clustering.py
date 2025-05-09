@@ -45,7 +45,8 @@ def load_sample_data() -> pd.DataFrame:
         return pd.DataFrame()
     
     try:
-        df = pd.read_csv("data/sample_users.csv")
+        df = pd.read_csv("data/Sample_Users_Budget_Profile.csv")
+
         return df
     except FileNotFoundError:
         st.error("Sample data file not found. Please ensure 'sample_users.csv' exists in the 'data' directory.")

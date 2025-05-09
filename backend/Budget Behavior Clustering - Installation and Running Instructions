@@ -1,0 +1,93 @@
+# Budget Behavior Clustering - Installation and Running Instructions
+
+## Project Structure
+Make sure your project has the following structure:
+```
+BudgetBehaviorClustering/
+├── backend/
+│   ├── app.py             # Streamlit application interface
+│   ├── cluster.py         # Clustering logic and model handling
+│   ├── sample_data.py     # Sample data generation
+│   ├── utils.py           # Utility functions
+│   ├── visuals.py         # Visualization functions
+│   ├── data/              # Auto-generated or stored CSV files
+│   └── models/            # Saved clustering models
+└── frontend/              # Optional React frontend
+    └── BudgetBehaviorClusteringReact/
+        └── src/
+            └── ...
+
+main.py                    # Main entry point script
+```
+
+## Installation
+
+1. **Create and activate a virtual environment**:
+   ```bash
+   python -m venv venv
+   
+   # On Windows
+   venv\Scripts\activate
+   
+   # On macOS/Linux
+   source venv/bin/activate
+   ```
+
+2. **Install required packages**:
+   ```bash
+   pip install streamlit pandas numpy scikit-learn matplotlib plotly seaborn
+   ```
+
+## Running the Application
+
+1. **Basic startup**:
+   ```bash
+   python main.py
+   ```
+   This will:
+   - Check and create necessary directories
+   - Generate sample data if needed
+   - Train or load the clustering model
+   - Launch the Streamlit app
+
+2. **Command-line options**:
+   ```bash
+   # Force regeneration of sample data
+   python main.py --regenerate-data
+   
+   # Force retraining of clustering model
+   python main.py --retrain-model
+   
+   # Set logging level
+   python main.py --log-level DEBUG
+   ```
+
+3. **Accessing the app**:
+   - Once running, the app will be available at http://localhost:8501
+   - The console will display the URL when the app starts
+
+## Troubleshooting
+
+1. **Missing modules**: If you see "module not found" errors, ensure all Python files are in the correct directories.
+
+2. **Data issues**: If experiencing data-related problems, try regenerating the sample data:
+   ```bash
+   python main.py --regenerate-data
+   ```
+
+3. **Model problems**: If the clustering isn't working correctly, try retraining the model:
+   ```bash
+   python main.py --retrain-model
+   ```
+
+4. **Streamlit port conflicts**: If port 8501 is already in use, Streamlit will automatically use the next available port. Check the console output for the correct URL.
+
+## Development Notes
+
+- **Adding features**: When adding new budget categories, update the `generate_sample_data()` function in `sample_data.py`.
+
+- **Customizing personas**: Edit the persona definitions in `cluster.py` to change their characteristics or add new ones.
+
+- **Visualizations**: Add or modify visualization functions in `visuals.py`.
+
+- **Frontend development**: If you want to use the React frontend instead of Streamlit, you'll need to implement API endpoints in the backend (using Flask or FastAPI) to connect with the React frontend.

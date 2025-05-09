@@ -1,0 +1,520 @@
+User_ID,Date,Description,Category,Amount,Balance
+user_1,2023-01-01,Freelance Payment,Income,3073.17,5876.79
+user_1,2023-01-03,Parking,Transportation,-70.99,5805.8
+user_1,2023-01-04,Streaming Service,Entertainment,-58.13,5747.67
+user_1,2023-01-05,Online Shopping,Shopping,-127.69,5619.98
+user_1,2023-01-06,Parking,Transportation,-78.93,5541.05
+user_1,2023-01-09,Internet,Housing,-838.07,4702.98
+user_1,2023-01-11,Home Goods,Shopping,-250.24,4452.74
+user_1,2023-01-12,Public Transit,Transportation,-94.15,4358.59
+user_1,2023-01-13,Grocery Store,Food,-176.58,4182.01
+user_1,2023-01-17,Rent,Housing,-1279.85,2902.16
+user_1,2023-01-18,Grocery Store,Food,-148.61,2753.55
+user_1,2023-01-19,Coffee Shop,Food,-280.2,2473.35
+user_1,2023-01-21,Utilities,Housing,-1475.37,997.98
+user_1,2023-01-24,Internet,Housing,-1442.1,-444.12
+user_1,2023-01-25,Electronics,Shopping,-271.22,-715.34
+user_1,2023-01-28,Car Payment,Transportation,-103.39,-818.73
+user_1,2023-01-31,Mortgage,Housing,-1094.66,-1913.39
+user_1,2023-02-01,Salary,Income,3695.82,1782.43
+user_1,2023-02-02,Car Payment,Transportation,-142.25,1640.18
+user_1,2023-02-03,Takeout,Food,-174.08,1466.1
+user_1,2023-02-09,Video Games,Entertainment,-199.89,1266.21
+user_1,2023-02-12,Electronics,Shopping,-151.73,1114.48
+user_1,2023-02-13,Uber/Lyft,Transportation,-75.99,1038.49
+user_1,2023-02-14,Fast Food,Food,-185.11,853.38
+user_1,2023-02-15,Salary,Income,2911.67,3765.05
+user_1,2023-02-16,Department Store,Shopping,-60.44,3704.61
+user_1,2023-02-18,Gas,Transportation,-120.16,3584.45
+user_1,2023-02-20,Gas,Transportation,-55.8,3528.65
+user_1,2023-02-21,Electronics,Shopping,-90.48,3438.17
+user_1,2023-02-23,Coffee Shop,Food,-204.78,3233.39
+user_1,2023-02-24,Internet,Housing,-1189.26,2044.13
+user_1,2023-02-25,Coffee Shop,Food,-225.85,1818.28
+user_1,2023-02-27,Gas,Transportation,-126.15,1692.13
+user_1,2023-02-28,Electronics,Shopping,-88.39,1603.74
+user_1,2023-03-01,Freelance Payment,Income,4623.41,6227.15
+user_1,2023-03-02,Streaming Service,Entertainment,-95.79,6131.36
+user_1,2023-03-04,Restaurant,Food,-291.04,5840.32
+user_1,2023-03-05,Home Goods,Shopping,-73.05,5767.27
+user_1,2023-03-06,Car Payment,Transportation,-116.43,5650.84
+user_1,2023-03-08,Mortgage,Housing,-816.96,4833.88
+user_1,2023-03-10,Clothing,Shopping,-127.17,4706.71
+user_1,2023-03-12,Restaurant,Food,-218.64,4488.07
+user_1,2023-03-13,Grocery Store,Food,-147.9,4340.17
+user_1,2023-03-15,Salary,Income,4649.23,8989.4
+user_1,2023-03-19,Utilities,Housing,-1270.22,7719.18
+user_1,2023-03-20,Utilities,Housing,-1196.06,6523.12
+user_1,2023-03-21,Video Games,Entertainment,-66.98,6456.14
+user_1,2023-03-22,Internet,Housing,-1439.91,5016.23
+user_1,2023-03-23,Utilities,Housing,-1166.01,3850.22
+user_1,2023-03-25,Movies,Entertainment,-186.68,3663.54
+user_1,2023-03-29,Takeout,Food,-131.76,3531.78
+user_10,2023-01-02,Restaurant,Food,-171.56,981.57
+user_10,2023-01-03,Internet,Housing,-968.01,13.56
+user_10,2023-01-06,Online Shopping,Shopping,-244.42,-230.86
+user_10,2023-01-07,Parking,Transportation,-142.76,-373.62
+user_10,2023-01-08,Restaurant,Food,-167.21,-540.83
+user_10,2023-01-10,Takeout,Food,-224.35,-765.18
+user_10,2023-01-12,Grocery Store,Food,-242.51,-1007.69
+user_10,2023-01-14,Clothing,Shopping,-171.97,-1179.66
+user_10,2023-01-15,Freelance Payment,Income,3463.92,2284.26
+user_10,2023-01-16,Public Transit,Transportation,-94.67,2189.59
+user_10,2023-01-18,Gas,Transportation,-62.37,2127.22
+user_10,2023-01-21,Department Store,Shopping,-130.33,1996.89
+user_10,2023-01-23,Takeout,Food,-227.12,1769.77
+user_10,2023-01-25,Mortgage,Housing,-1434.68,335.09
+user_10,2023-01-26,Streaming Service,Entertainment,-165.5,169.59
+user_10,2023-01-27,Coffee Shop,Food,-137.23,32.36
+user_10,2023-01-30,Utilities,Housing,-1459.33,-1426.97
+user_10,2023-02-01,Freelance Payment,Income,4913.36,3486.39
+user_10,2023-02-03,Streaming Service,Entertainment,-85.55,3400.84
+user_10,2023-02-06,Streaming Service,Entertainment,-101.63,3299.21
+user_10,2023-02-08,Internet,Housing,-944.33,2354.88
+user_10,2023-02-09,Video Games,Entertainment,-189.22,2165.66
+user_10,2023-02-11,Gas,Transportation,-139.21,2026.45
+user_10,2023-02-12,Department Store,Shopping,-258.7,1767.75
+user_10,2023-02-14,Electricity,Housing,-1144.14,623.61
+user_10,2023-02-16,Grocery Store,Food,-226.15,397.46
+user_10,2023-02-17,Utilities,Housing,-1073.69,-676.23
+user_10,2023-02-20,Movies,Entertainment,-128.11,-804.34
+user_10,2023-02-23,Video Games,Entertainment,-174.76,-979.1
+user_10,2023-02-24,Sports Event,Entertainment,-121.45,-1100.55
+user_10,2023-02-25,Uber/Lyft,Transportation,-68.12,-1168.67
+user_10,2023-02-27,Online Shopping,Shopping,-56.93,-1225.6
+user_10,2023-03-01,Salary,Income,2748.28,1522.68
+user_10,2023-03-03,Takeout,Food,-219.49,1303.19
+user_10,2023-03-04,Video Games,Entertainment,-78.36,1224.83
+user_10,2023-03-06,Grocery Store,Food,-204.84,1019.99
+user_10,2023-03-07,Movies,Entertainment,-149.04,870.95
+user_10,2023-03-09,Grocery Store,Food,-289.77,581.18
+user_10,2023-03-10,Streaming Service,Entertainment,-198.48,382.7
+user_10,2023-03-12,Concert,Entertainment,-131.15,251.55
+user_10,2023-03-13,Home Goods,Shopping,-178.12,73.43
+user_10,2023-03-14,Mortgage,Housing,-1253.94,-1180.51
+user_10,2023-03-16,Car Payment,Transportation,-95.3,-1275.81
+user_10,2023-03-18,Electronics,Shopping,-295.36,-1571.17
+user_10,2023-03-21,Takeout,Food,-256.03,-1827.2
+user_10,2023-03-22,Gas,Transportation,-118.88,-1946.08
+user_10,2023-03-23,Grocery Store,Food,-265.08,-2211.16
+user_10,2023-03-24,Electronics,Shopping,-63.54,-2274.7
+user_10,2023-03-25,Electricity,Housing,-1275.46,-3550.16
+user_10,2023-03-29,Uber/Lyft,Transportation,-148.05,-3698.21
+user_2,2023-01-01,Contract Work,Income,4982.54,6475.79
+user_2,2023-01-03,Fast Food,Food,-159.34,6316.45
+user_2,2023-01-04,Home Goods,Shopping,-277.21,6039.24
+user_2,2023-01-07,Restaurant,Food,-190.56,5848.68
+user_2,2023-01-08,Parking,Transportation,-125.38,5723.3
+user_2,2023-01-13,Sports Event,Entertainment,-89.62,5633.68
+user_2,2023-01-14,Fast Food,Food,-261.7,5371.98
+user_2,2023-01-15,Direct Deposit,Income,4904.05,10276.03
+user_2,2023-01-18,Mortgage,Housing,-1339.84,8936.19
+user_2,2023-01-19,Electronics,Shopping,-171.41,8764.78
+user_2,2023-01-21,Internet,Housing,-1389.22,7375.56
+user_2,2023-01-23,Grocery Store,Food,-232.73,7142.83
+user_2,2023-01-27,Fast Food,Food,-250.98,6891.85
+user_2,2023-01-30,Concert,Entertainment,-177.51,6714.34
+user_2,2023-01-31,Streaming Service,Entertainment,-24.4,6689.94
+user_2,2023-02-03,Parking,Transportation,-138.35,6551.59
+user_2,2023-02-04,Car Payment,Transportation,-105.77,6445.82
+user_2,2023-02-05,Home Goods,Shopping,-60.65,6385.17
+user_2,2023-02-06,Streaming Service,Entertainment,-118.74,6266.43
+user_2,2023-02-07,Internet,Housing,-922.13,5344.3
+user_2,2023-02-08,Public Transit,Transportation,-116.65,5227.65
+user_2,2023-02-09,Gas,Transportation,-70.3,5157.35
+user_2,2023-02-15,Freelance Payment,Income,4715.63,9872.98
+user_2,2023-02-16,Electricity,Housing,-1477.55,8395.43
+user_2,2023-02-17,Rent,Housing,-1314.54,7080.89
+user_2,2023-02-18,Utilities,Housing,-1380.38,5700.51
+user_2,2023-02-19,Concert,Entertainment,-88.28,5612.23
+user_2,2023-02-20,Rent,Housing,-1134.38,4477.85
+user_2,2023-02-22,Coffee Shop,Food,-299.84,4178.01
+user_2,2023-02-23,Movies,Entertainment,-174.68,4003.33
+user_2,2023-02-27,Grocery Store,Food,-236.24,3767.09
+user_2,2023-03-01,Salary,Income,3946.27,7713.36
+user_2,2023-03-03,Fast Food,Food,-211.76,7501.6
+user_2,2023-03-04,Video Games,Entertainment,-143.87,7357.73
+user_2,2023-03-05,Car Payment,Transportation,-61.29,7296.44
+user_2,2023-03-08,Department Store,Shopping,-95.1,7201.34
+user_2,2023-03-13,Electronics,Shopping,-268.4,6932.94
+user_2,2023-03-14,Gas,Transportation,-66.0,6866.94
+user_2,2023-03-17,Electricity,Housing,-919.56,5947.38
+user_2,2023-03-19,Online Shopping,Shopping,-219.41,5727.97
+user_2,2023-03-20,Fast Food,Food,-256.07,5471.9
+user_2,2023-03-21,Movies,Entertainment,-148.62,5323.28
+user_2,2023-03-23,Movies,Entertainment,-55.14,5268.14
+user_2,2023-03-24,Sports Event,Entertainment,-140.12,5128.02
+user_2,2023-03-25,Restaurant,Food,-255.87,4872.15
+user_2,2023-03-28,Mortgage,Housing,-1160.51,3711.64
+user_2,2023-03-31,Public Transit,Transportation,-118.03,3593.61
+user_3,2023-01-01,Paycheck,Income,4620.69,7185.22
+user_3,2023-01-05,Car Payment,Transportation,-104.16,7081.06
+user_3,2023-01-06,Mortgage,Housing,-1101.98,5979.08
+user_3,2023-01-10,Utilities,Housing,-1372.71,4606.37
+user_3,2023-01-11,Takeout,Food,-214.46,4391.91
+user_3,2023-01-12,Takeout,Food,-239.85,4152.06
+user_3,2023-01-13,Gas,Transportation,-112.9,4039.16
+user_3,2023-01-15,Contract Work,Income,3915.89,7955.05
+user_3,2023-01-16,Video Games,Entertainment,-77.87,7877.18
+user_3,2023-01-18,Streaming Service,Entertainment,-114.24,7762.94
+user_3,2023-01-19,Gas,Transportation,-64.68,7698.26
+user_3,2023-01-20,Fast Food,Food,-275.8,7422.46
+user_3,2023-01-22,Video Games,Entertainment,-165.09,7257.37
+user_3,2023-01-28,Grocery Store,Food,-234.99,7022.38
+user_3,2023-01-29,Clothing,Shopping,-204.71,6817.67
+user_3,2023-02-01,Paycheck,Income,2958.25,9775.92
+user_3,2023-02-03,Video Games,Entertainment,-146.45,9629.47
+user_3,2023-02-08,Movies,Entertainment,-87.86,9541.61
+user_3,2023-02-10,Movies,Entertainment,-133.06,9408.55
+user_3,2023-02-11,Internet,Housing,-1277.1,8131.45
+user_3,2023-02-12,Fast Food,Food,-215.92,7915.53
+user_3,2023-02-14,Restaurant,Food,-254.82,7660.71
+user_3,2023-02-16,Gas,Transportation,-144.85,7515.86
+user_3,2023-02-17,Parking,Transportation,-84.82,7431.04
+user_3,2023-02-18,Online Shopping,Shopping,-129.76,7301.28
+user_3,2023-02-21,Utilities,Housing,-835.2,6466.08
+user_3,2023-02-22,Utilities,Housing,-914.82,5551.26
+user_3,2023-02-23,Parking,Transportation,-71.46,5479.8
+user_3,2023-02-24,Home Goods,Shopping,-283.56,5196.24
+user_3,2023-02-25,Fast Food,Food,-263.15,4933.09
+user_3,2023-02-26,Takeout,Food,-168.96,4764.13
+user_3,2023-02-28,Internet,Housing,-1400.37,3363.76
+user_3,2023-03-02,Parking,Transportation,-132.96,3230.8
+user_3,2023-03-05,Movies,Entertainment,-41.38,3189.42
+user_3,2023-03-06,Clothing,Shopping,-74.11,3115.31
+user_3,2023-03-07,Video Games,Entertainment,-74.42,3040.89
+user_3,2023-03-11,Clothing,Shopping,-239.69,2801.2
+user_3,2023-03-12,Department Store,Shopping,-174.72,2626.48
+user_3,2023-03-14,Utilities,Housing,-948.25,1678.23
+user_3,2023-03-15,Salary,Income,2521.46,4199.69
+user_3,2023-03-17,Parking,Transportation,-145.2,4054.49
+user_3,2023-03-18,Uber/Lyft,Transportation,-129.7,3924.79
+user_3,2023-03-19,Concert,Entertainment,-188.2,3736.59
+user_3,2023-03-20,Online Shopping,Shopping,-260.77,3475.82
+user_3,2023-03-27,Fast Food,Food,-268.82,3207.0
+user_3,2023-03-28,Internet,Housing,-1062.83,2144.17
+user_3,2023-03-29,Rent,Housing,-1226.37,917.8
+user_3,2023-03-30,Fast Food,Food,-245.36,672.44
+user_3,2023-03-31,Coffee Shop,Food,-105.82,566.62
+user_4,2023-01-01,Salary,Income,3392.98,5845.51
+user_4,2023-01-02,Clothing,Shopping,-263.08,5582.43
+user_4,2023-01-04,Takeout,Food,-101.02,5481.41
+user_4,2023-01-05,Takeout,Food,-284.76,5196.65
+user_4,2023-01-07,Home Goods,Shopping,-166.85,5029.8
+user_4,2023-01-08,Public Transit,Transportation,-128.27,4901.53
+user_4,2023-01-10,Electronics,Shopping,-54.85,4846.68
+user_4,2023-01-13,Movies,Entertainment,-144.13,4702.55
+user_4,2023-01-14,Gas,Transportation,-94.65,4607.9
+user_4,2023-01-16,Sports Event,Entertainment,-44.38,4563.52
+user_4,2023-01-19,Online Shopping,Shopping,-104.07,4459.45
+user_4,2023-01-21,Video Games,Entertainment,-29.19,4430.26
+user_4,2023-01-23,Uber/Lyft,Transportation,-100.88,4329.38
+user_4,2023-01-24,Movies,Entertainment,-167.38,4162.0
+user_4,2023-01-25,Electricity,Housing,-1184.65,2977.35
+user_4,2023-01-27,Movies,Entertainment,-156.71,2820.64
+user_4,2023-01-28,Mortgage,Housing,-1393.13,1427.51
+user_4,2023-01-29,Sports Event,Entertainment,-47.01,1380.5
+user_4,2023-01-31,Video Games,Entertainment,-82.22,1298.28
+user_4,2023-02-01,Paycheck,Income,3368.67,4666.95
+user_4,2023-02-02,Online Shopping,Shopping,-130.66,4536.29
+user_4,2023-02-05,Electronics,Shopping,-126.21,4410.08
+user_4,2023-02-07,Coffee Shop,Food,-156.4,4253.68
+user_4,2023-02-08,Online Shopping,Shopping,-60.31,4193.37
+user_4,2023-02-10,Takeout,Food,-224.84,3968.53
+user_4,2023-02-11,Clothing,Shopping,-231.5,3737.03
+user_4,2023-02-12,Electronics,Shopping,-161.66,3575.37
+user_4,2023-02-15,Freelance Payment,Income,3017.36,6592.73
+user_4,2023-02-16,Rent,Housing,-1422.52,5170.21
+user_4,2023-02-17,Car Payment,Transportation,-119.96,5050.25
+user_4,2023-02-19,Coffee Shop,Food,-112.52,4937.73
+user_4,2023-02-20,Electricity,Housing,-1175.62,3762.11
+user_4,2023-02-21,Movies,Entertainment,-63.66,3698.45
+user_4,2023-02-23,Restaurant,Food,-276.13,3422.32
+user_4,2023-02-27,Fast Food,Food,-257.97,3164.35
+user_4,2023-03-01,Contract Work,Income,3793.33,6957.68
+user_4,2023-03-02,Clothing,Shopping,-209.5,6748.18
+user_4,2023-03-03,Coffee Shop,Food,-235.58,6512.6
+user_4,2023-03-05,Concert,Entertainment,-138.79,6373.81
+user_4,2023-03-07,Department Store,Shopping,-194.82,6178.99
+user_4,2023-03-08,Grocery Store,Food,-266.72,5912.27
+user_4,2023-03-09,Electronics,Shopping,-197.95,5714.32
+user_4,2023-03-11,Department Store,Shopping,-282.28,5432.04
+user_4,2023-03-12,Grocery Store,Food,-266.44,5165.6
+user_4,2023-03-15,Salary,Income,3788.25,8953.85
+user_4,2023-03-17,Department Store,Shopping,-272.09,8681.76
+user_4,2023-03-20,Movies,Entertainment,-88.8,8592.96
+user_4,2023-03-21,Concert,Entertainment,-199.18,8393.78
+user_4,2023-03-22,Gas,Transportation,-78.96,8314.82
+user_4,2023-03-25,Restaurant,Food,-149.5,8165.32
+user_4,2023-03-28,Movies,Entertainment,-46.66,8118.66
+user_4,2023-03-29,Mortgage,Housing,-1055.5,7063.16
+user_4,2023-03-30,Electricity,Housing,-802.32,6260.84
+user_4,2023-03-31,Video Games,Entertainment,-115.44,6145.4
+user_5,2023-01-01,Paycheck,Income,4336.05,6442.7
+user_5,2023-01-02,Video Games,Entertainment,-163.77,6278.93
+user_5,2023-01-03,Home Goods,Shopping,-207.91,6071.02
+user_5,2023-01-04,Electronics,Shopping,-69.14,6001.88
+user_5,2023-01-05,Utilities,Housing,-1480.43,4521.45
+user_5,2023-01-07,Sports Event,Entertainment,-51.1,4470.35
+user_5,2023-01-08,Restaurant,Food,-175.74,4294.61
+user_5,2023-01-09,Movies,Entertainment,-153.33,4141.28
+user_5,2023-01-10,Clothing,Shopping,-228.51,3912.77
+user_5,2023-01-14,Parking,Transportation,-86.79,3825.98
+user_5,2023-01-17,Video Games,Entertainment,-57.25,3768.73
+user_5,2023-01-18,Coffee Shop,Food,-174.49,3594.24
+user_5,2023-01-20,Fast Food,Food,-190.17,3404.07
+user_5,2023-01-21,Sports Event,Entertainment,-72.76,3331.31
+user_5,2023-01-22,Internet,Housing,-1416.65,1914.66
+user_5,2023-01-23,Gas,Transportation,-113.84,1800.82
+user_5,2023-01-24,Streaming Service,Entertainment,-43.65,1757.17
+user_5,2023-01-25,Parking,Transportation,-136.67,1620.5
+user_5,2023-01-28,Movies,Entertainment,-97.74,1522.76
+user_5,2023-01-31,Sports Event,Entertainment,-178.69,1344.07
+user_5,2023-02-01,Freelance Payment,Income,2671.39,4015.46
+user_5,2023-02-02,Public Transit,Transportation,-146.73,3868.73
+user_5,2023-02-03,Takeout,Food,-209.75,3658.98
+user_5,2023-02-06,Online Shopping,Shopping,-173.74,3485.24
+user_5,2023-02-10,Grocery Store,Food,-102.64,3382.6
+user_5,2023-02-11,Sports Event,Entertainment,-143.15,3239.45
+user_5,2023-02-12,Sports Event,Entertainment,-61.63,3177.82
+user_5,2023-02-13,Uber/Lyft,Transportation,-91.31,3086.51
+user_5,2023-02-16,Mortgage,Housing,-1214.47,1872.04
+user_5,2023-02-17,Coffee Shop,Food,-114.89,1757.15
+user_5,2023-02-18,Fast Food,Food,-233.72,1523.43
+user_5,2023-02-19,Restaurant,Food,-119.02,1404.41
+user_5,2023-02-20,Fast Food,Food,-220.35,1184.06
+user_5,2023-02-22,Sports Event,Entertainment,-157.44,1026.62
+user_5,2023-02-23,Streaming Service,Entertainment,-184.03,842.59
+user_5,2023-02-24,Uber/Lyft,Transportation,-128.17,714.42
+user_5,2023-02-25,Fast Food,Food,-233.5,480.92
+user_5,2023-02-26,Uber/Lyft,Transportation,-91.6,389.32
+user_5,2023-02-27,Clothing,Shopping,-190.28,199.04
+user_5,2023-02-28,Movies,Entertainment,-63.96,135.08
+user_5,2023-03-01,Freelance Payment,Income,2741.27,2876.35
+user_5,2023-03-02,Gas,Transportation,-147.49,2728.86
+user_5,2023-03-06,Clothing,Shopping,-269.58,2459.28
+user_5,2023-03-07,Utilities,Housing,-1298.26,1161.02
+user_5,2023-03-08,Car Payment,Transportation,-111.34,1049.68
+user_5,2023-03-12,Coffee Shop,Food,-222.14,827.54
+user_5,2023-03-13,Sports Event,Entertainment,-132.02,695.52
+user_5,2023-03-14,Uber/Lyft,Transportation,-80.59,614.93
+user_5,2023-03-15,Salary,Income,4648.87,5263.8
+user_5,2023-03-18,Electricity,Housing,-1011.8,4252.0
+user_5,2023-03-24,Public Transit,Transportation,-61.67,4190.33
+user_5,2023-03-25,Uber/Lyft,Transportation,-59.57,4130.76
+user_5,2023-03-26,Coffee Shop,Food,-183.49,3947.27
+user_5,2023-03-27,Takeout,Food,-100.41,3846.86
+user_5,2023-03-29,Takeout,Food,-272.59,3574.27
+user_6,2023-01-01,Salary,Income,4395.87,6271.15
+user_6,2023-01-03,Online Shopping,Shopping,-50.2,6220.95
+user_6,2023-01-04,Electricity,Housing,-1122.16,5098.79
+user_6,2023-01-06,Gas,Transportation,-56.05,5042.74
+user_6,2023-01-08,Concert,Entertainment,-57.41,4985.33
+user_6,2023-01-10,Concert,Entertainment,-191.09,4794.24
+user_6,2023-01-11,Online Shopping,Shopping,-228.69,4565.55
+user_6,2023-01-15,Contract Work,Income,3546.51,8112.06
+user_6,2023-01-16,Car Payment,Transportation,-105.38,8006.68
+user_6,2023-01-17,Grocery Store,Food,-151.68,7855.0
+user_6,2023-01-18,Sports Event,Entertainment,-146.23,7708.77
+user_6,2023-01-20,Uber/Lyft,Transportation,-84.07,7624.7
+user_6,2023-01-23,Home Goods,Shopping,-269.45,7355.25
+user_6,2023-01-24,Clothing,Shopping,-229.37,7125.88
+user_6,2023-01-26,Parking,Transportation,-147.75,6978.13
+user_6,2023-01-27,Takeout,Food,-155.76,6822.37
+user_6,2023-01-29,Internet,Housing,-1326.27,5496.1
+user_6,2023-01-31,Online Shopping,Shopping,-223.82,5272.28
+user_6,2023-02-01,Freelance Payment,Income,4799.8,10072.08
+user_6,2023-02-02,Rent,Housing,-936.15,9135.93
+user_6,2023-02-04,Internet,Housing,-888.43,8247.5
+user_6,2023-02-06,Restaurant,Food,-185.39,8062.11
+user_6,2023-02-07,Gas,Transportation,-149.99,7912.12
+user_6,2023-02-08,Clothing,Shopping,-106.08,7806.04
+user_6,2023-02-09,Parking,Transportation,-117.05,7688.99
+user_6,2023-02-10,Concert,Entertainment,-74.73,7614.26
+user_6,2023-02-12,Fast Food,Food,-161.76,7452.5
+user_6,2023-02-13,Uber/Lyft,Transportation,-55.63,7396.87
+user_6,2023-02-15,Salary,Income,3384.41,10781.28
+user_6,2023-02-17,Public Transit,Transportation,-115.25,10666.03
+user_6,2023-02-18,Concert,Entertainment,-57.17,10608.86
+user_6,2023-02-19,Gas,Transportation,-78.48,10530.38
+user_6,2023-02-21,Internet,Housing,-1193.73,9336.65
+user_6,2023-02-24,Fast Food,Food,-213.62,9123.03
+user_6,2023-02-26,Clothing,Shopping,-74.07,9048.96
+user_6,2023-02-27,Home Goods,Shopping,-96.34,8952.62
+user_6,2023-02-28,Public Transit,Transportation,-91.22,8861.4
+user_6,2023-03-01,Paycheck,Income,2997.07,11858.47
+user_6,2023-03-04,Fast Food,Food,-244.08,11614.39
+user_6,2023-03-05,Utilities,Housing,-1481.55,10132.84
+user_6,2023-03-08,Department Store,Shopping,-270.5,9862.34
+user_6,2023-03-09,Restaurant,Food,-250.72,9611.62
+user_6,2023-03-11,Parking,Transportation,-136.26,9475.36
+user_6,2023-03-13,Utilities,Housing,-888.75,8586.61
+user_6,2023-03-18,Clothing,Shopping,-82.68,8503.93
+user_6,2023-03-23,Concert,Entertainment,-21.74,8482.19
+user_6,2023-03-24,Utilities,Housing,-1192.28,7289.91
+user_6,2023-03-25,Fast Food,Food,-275.42,7014.49
+user_6,2023-03-26,Grocery Store,Food,-102.68,6911.81
+user_6,2023-03-29,Gas,Transportation,-69.18,6842.63
+user_6,2023-03-30,Streaming Service,Entertainment,-90.2,6752.43
+user_6,2023-03-31,Electronics,Shopping,-82.66,6669.77
+user_7,2023-01-03,Clothing,Shopping,-99.53,2272.41
+user_7,2023-01-04,Concert,Entertainment,-120.72,2151.69
+user_7,2023-01-06,Internet,Housing,-917.59,1234.1
+user_7,2023-01-07,Gas,Transportation,-102.87,1131.23
+user_7,2023-01-09,Public Transit,Transportation,-57.09,1074.14
+user_7,2023-01-10,Restaurant,Food,-226.28,847.86
+user_7,2023-01-11,Rent,Housing,-1482.17,-634.31
+user_7,2023-01-15,Paycheck,Income,4175.28,3540.97
+user_7,2023-01-16,Takeout,Food,-242.93,3298.04
+user_7,2023-01-17,Video Games,Entertainment,-75.12,3222.92
+user_7,2023-01-18,Sports Event,Entertainment,-125.04,3097.88
+user_7,2023-01-19,Home Goods,Shopping,-171.3,2926.58
+user_7,2023-01-24,Utilities,Housing,-890.91,2035.67
+user_7,2023-01-27,Fast Food,Food,-245.83,1789.84
+user_7,2023-01-30,Movies,Entertainment,-53.75,1736.09
+user_7,2023-01-31,Takeout,Food,-138.31,1597.78
+user_7,2023-02-01,Direct Deposit,Income,3079.64,4677.42
+user_7,2023-02-02,Home Goods,Shopping,-115.04,4562.38
+user_7,2023-02-05,Department Store,Shopping,-169.42,4392.96
+user_7,2023-02-07,Video Games,Entertainment,-97.64,4295.32
+user_7,2023-02-08,Department Store,Shopping,-251.62,4043.7
+user_7,2023-02-10,Streaming Service,Entertainment,-126.8,3916.9
+user_7,2023-02-12,Grocery Store,Food,-114.21,3802.69
+user_7,2023-02-13,Rent,Housing,-864.38,2938.31
+user_7,2023-02-14,Uber/Lyft,Transportation,-75.15,2863.16
+user_7,2023-02-15,Direct Deposit,Income,3506.48,6369.64
+user_7,2023-02-16,Electronics,Shopping,-52.74,6316.9
+user_7,2023-02-17,Gas,Transportation,-143.63,6173.27
+user_7,2023-02-20,Uber/Lyft,Transportation,-145.2,6028.07
+user_7,2023-02-21,Grocery Store,Food,-260.8,5767.27
+user_7,2023-02-24,Home Goods,Shopping,-293.3,5473.97
+user_7,2023-02-26,Mortgage,Housing,-1076.09,4397.88
+user_7,2023-02-27,Streaming Service,Entertainment,-178.88,4219.0
+user_7,2023-02-28,Streaming Service,Entertainment,-184.0,4035.0
+user_7,2023-03-03,Electricity,Housing,-1461.17,2573.83
+user_7,2023-03-04,Video Games,Entertainment,-145.92,2427.91
+user_7,2023-03-05,Coffee Shop,Food,-250.73,2177.18
+user_7,2023-03-06,Internet,Housing,-914.87,1262.31
+user_7,2023-03-07,Takeout,Food,-133.08,1129.23
+user_7,2023-03-08,Online Shopping,Shopping,-238.06,891.17
+user_7,2023-03-10,Department Store,Shopping,-283.59,607.58
+user_7,2023-03-12,Grocery Store,Food,-149.38,458.2
+user_7,2023-03-13,Home Goods,Shopping,-120.89,337.31
+user_7,2023-03-14,Video Games,Entertainment,-87.81,249.5
+user_7,2023-03-16,Sports Event,Entertainment,-158.16,91.34
+user_7,2023-03-18,Electronics,Shopping,-53.07,38.27
+user_7,2023-03-19,Uber/Lyft,Transportation,-108.76,-70.49
+user_7,2023-03-20,Utilities,Housing,-1304.42,-1374.91
+user_7,2023-03-21,Sports Event,Entertainment,-28.29,-1403.2
+user_7,2023-03-23,Home Goods,Shopping,-212.33,-1615.53
+user_7,2023-03-25,Sports Event,Entertainment,-163.52,-1779.05
+user_7,2023-03-27,Mortgage,Housing,-1000.56,-2779.61
+user_7,2023-03-28,Gas,Transportation,-57.51,-2837.12
+user_7,2023-03-30,Car Payment,Transportation,-117.99,-2955.11
+user_8,2023-01-01,Paycheck,Income,3481.31,5743.91
+user_8,2023-01-03,Concert,Entertainment,-140.93,5602.98
+user_8,2023-01-04,Home Goods,Shopping,-69.96,5533.02
+user_8,2023-01-07,Utilities,Housing,-1175.0,4358.02
+user_8,2023-01-09,Mortgage,Housing,-1082.81,3275.21
+user_8,2023-01-10,Takeout,Food,-139.15,3136.06
+user_8,2023-01-11,Coffee Shop,Food,-191.68,2944.38
+user_8,2023-01-18,Home Goods,Shopping,-261.17,2683.21
+user_8,2023-01-19,Clothing,Shopping,-169.91,2513.3
+user_8,2023-01-21,Fast Food,Food,-127.43,2385.87
+user_8,2023-01-22,Public Transit,Transportation,-135.3,2250.57
+user_8,2023-01-24,Concert,Entertainment,-181.15,2069.42
+user_8,2023-01-25,Online Shopping,Shopping,-256.51,1812.91
+user_8,2023-01-26,Electronics,Shopping,-140.83,1672.08
+user_8,2023-01-27,Movies,Entertainment,-67.35,1604.73
+user_8,2023-01-30,Home Goods,Shopping,-275.63,1329.1
+user_8,2023-01-31,Coffee Shop,Food,-110.32,1218.78
+user_8,2023-02-02,Concert,Entertainment,-176.04,1042.74
+user_8,2023-02-03,Concert,Entertainment,-173.62,869.12
+user_8,2023-02-04,Department Store,Shopping,-120.5,748.62
+user_8,2023-02-07,Clothing,Shopping,-217.94,530.68
+user_8,2023-02-08,Video Games,Entertainment,-155.83,374.85
+user_8,2023-02-10,Takeout,Food,-193.94,180.91
+user_8,2023-02-11,Parking,Transportation,-54.85,126.06
+user_8,2023-02-12,Department Store,Shopping,-246.25,-120.19
+user_8,2023-02-14,Electricity,Housing,-1483.58,-1603.77
+user_8,2023-02-16,Gas,Transportation,-108.66,-1712.43
+user_8,2023-02-17,Takeout,Food,-168.77,-1881.2
+user_8,2023-02-20,Fast Food,Food,-177.5,-2058.7
+user_8,2023-02-21,Streaming Service,Entertainment,-69.53,-2128.23
+user_8,2023-02-22,Home Goods,Shopping,-121.23,-2249.46
+user_8,2023-02-23,Utilities,Housing,-976.45,-3225.91
+user_8,2023-02-24,Public Transit,Transportation,-93.66,-3319.57
+user_8,2023-02-26,Takeout,Food,-209.54,-3529.11
+user_8,2023-02-27,Public Transit,Transportation,-112.33,-3641.44
+user_8,2023-03-01,Contract Work,Income,3925.21,283.77
+user_8,2023-03-04,Movies,Entertainment,-170.16,113.61
+user_8,2023-03-08,Video Games,Entertainment,-161.94,-48.33
+user_8,2023-03-09,Restaurant,Food,-278.37,-326.7
+user_8,2023-03-10,Restaurant,Food,-272.64,-599.34
+user_8,2023-03-12,Grocery Store,Food,-282.37,-881.71
+user_8,2023-03-16,Car Payment,Transportation,-89.05,-970.76
+user_8,2023-03-17,Internet,Housing,-909.16,-1879.92
+user_8,2023-03-18,Concert,Entertainment,-168.32,-2048.24
+user_8,2023-03-19,Electricity,Housing,-1173.71,-3221.95
+user_8,2023-03-20,Rent,Housing,-1149.83,-4371.78
+user_8,2023-03-21,Car Payment,Transportation,-123.46,-4495.24
+user_8,2023-03-23,Uber/Lyft,Transportation,-52.13,-4547.37
+user_8,2023-03-26,Movies,Entertainment,-199.81,-4747.18
+user_8,2023-03-27,Clothing,Shopping,-119.41,-4866.59
+user_8,2023-03-28,Streaming Service,Entertainment,-197.22,-5063.81
+user_8,2023-03-29,Rent,Housing,-1473.39,-6537.2
+user_8,2023-03-30,Grocery Store,Food,-253.47,-6790.67
+user_9,2023-01-02,Utilities,Housing,-1406.21,982.44
+user_9,2023-01-04,Rent,Housing,-1359.28,-376.84
+user_9,2023-01-05,Parking,Transportation,-67.52,-444.36
+user_9,2023-01-06,Gas,Transportation,-80.11,-524.47
+user_9,2023-01-07,Restaurant,Food,-271.7,-796.17
+user_9,2023-01-08,Car Payment,Transportation,-92.12,-888.29
+user_9,2023-01-09,Takeout,Food,-151.95,-1040.24
+user_9,2023-01-14,Online Shopping,Shopping,-297.18,-1337.42
+user_9,2023-01-16,Car Payment,Transportation,-87.57,-1424.99
+user_9,2023-01-17,Online Shopping,Shopping,-91.97,-1516.96
+user_9,2023-01-20,Streaming Service,Entertainment,-106.34,-1623.3
+user_9,2023-01-21,Public Transit,Transportation,-118.73,-1742.03
+user_9,2023-01-23,Public Transit,Transportation,-146.72,-1888.75
+user_9,2023-01-24,Electronics,Shopping,-289.25,-2178.0
+user_9,2023-01-27,Coffee Shop,Food,-274.02,-2452.02
+user_9,2023-01-28,Public Transit,Transportation,-75.62,-2527.64
+user_9,2023-01-29,Clothing,Shopping,-130.59,-2658.23
+user_9,2023-01-30,Uber/Lyft,Transportation,-126.36,-2784.59
+user_9,2023-02-01,Salary,Income,4798.86,2014.27
+user_9,2023-02-03,Sports Event,Entertainment,-23.73,1990.54
+user_9,2023-02-04,Video Games,Entertainment,-60.34,1930.2
+user_9,2023-02-05,Car Payment,Transportation,-109.13,1821.07
+user_9,2023-02-06,Takeout,Food,-105.5,1715.57
+user_9,2023-02-07,Fast Food,Food,-233.87,1481.7
+user_9,2023-02-08,Parking,Transportation,-51.09,1430.61
+user_9,2023-02-09,Streaming Service,Entertainment,-76.76,1353.85
+user_9,2023-02-12,Grocery Store,Food,-149.82,1204.03
+user_9,2023-02-13,Video Games,Entertainment,-195.53,1008.5
+user_9,2023-02-14,Gas,Transportation,-86.11,922.39
+user_9,2023-02-16,Concert,Entertainment,-156.2,766.19
+user_9,2023-02-17,Restaurant,Food,-203.67,562.52
+user_9,2023-02-19,Grocery Store,Food,-155.55,406.97
+user_9,2023-02-22,Streaming Service,Entertainment,-39.29,367.68
+user_9,2023-02-23,Home Goods,Shopping,-242.79,124.89
+user_9,2023-02-24,Home Goods,Shopping,-217.27,-92.38
+user_9,2023-02-27,Streaming Service,Entertainment,-145.78,-238.16
+user_9,2023-03-02,Mortgage,Housing,-1139.85,-1378.01
+user_9,2023-03-04,Electricity,Housing,-1394.54,-2772.55
+user_9,2023-03-06,Home Goods,Shopping,-214.0,-2986.55
+user_9,2023-03-11,Online Shopping,Shopping,-226.35,-3212.9
+user_9,2023-03-12,Restaurant,Food,-287.16,-3500.06
+user_9,2023-03-13,Car Payment,Transportation,-91.31,-3591.37
+user_9,2023-03-14,Parking,Transportation,-143.68,-3735.05
+user_9,2023-03-15,Salary,Income,3282.04,-453.01
+user_9,2023-03-17,Rent,Housing,-1310.54,-1763.55
+user_9,2023-03-18,Takeout,Food,-101.2,-1864.75
+user_9,2023-03-19,Streaming Service,Entertainment,-65.47,-1930.22
+user_9,2023-03-20,Car Payment,Transportation,-131.34,-2061.56
+user_9,2023-03-21,Car Payment,Transportation,-51.65,-2113.21
+user_9,2023-03-22,Takeout,Food,-194.32,-2307.53
+user_9,2023-03-23,Fast Food,Food,-153.36,-2460.89
+user_9,2023-03-24,Public Transit,Transportation,-69.03,-2529.92
+user_9,2023-03-25,Clothing,Shopping,-270.64,-2800.56
+user_9,2023-03-26,Online Shopping,Shopping,-228.7,-3029.26
